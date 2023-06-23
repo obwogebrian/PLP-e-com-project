@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open contact.html",
-            "file": "e:\\nathan obwoge web projects\\profjay\\contact.html"
+            "name": "Open about.html",
+            "file": "c:\\Users\\LENOVO\\GIthub_Projects\\PLP-e-com-project\\about.html"
         }
     ]
 }

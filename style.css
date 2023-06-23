@@ -144,7 +144,7 @@ button.white{
 
 /* Home Page Starts Here */
 #hero {
-    background-image: url("img/hero4.png");
+    background-image: url("Pics/hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -164,7 +164,7 @@ button.white{
 }
 
 #hero button{
-    background-image: url("img/button.png");
+    background-image: url("Pics/button.png");
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -314,7 +314,7 @@ button.white{
     justify-content: center;
     text-align: center;
     align-items: center;
-    background-image: url("img/banner/b2.jpg");
+    background-image: url("banner/b2.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -352,7 +352,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: start;
-    background-image: url("img/banner/b17.jpg");
+    background-image: url("banner/b17.jpg");
     min-width: 48%;
     height: 50vh;
     background-size: cover;
@@ -385,7 +385,7 @@ button.white{
 }
 
 .sm-banner .banner-box2{
-    background-image: url("img/banner/b10.jpg");
+    background-image: url("banner/b10.jpg");
 }
 
 .banner3 {
@@ -400,7 +400,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: start;
-    background-image: url("img/banner/b7.jpg");
+    background-image: url("banner/b7.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -422,11 +422,11 @@ button.white{
 }
 
 .banner3 .banner-box2{
-    background-image: url("img/banner/b4.jpg");
+    background-image: url("banner/b4.jpg");
 }
 
 .banner3 .banner-box3{
-    background-image: url("img/banner/b18.jpg");
+    background-image: url("banner/b18.jpg");
 }
 
 #newsletter {
@@ -434,7 +434,7 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("img/banner/b14.png");
+    background-image: url("banner/b14.png");
     background-position: 20px 30px ;
     background-repeat: no-repeat;
     background-color: #041e42;
@@ -554,7 +554,7 @@ footer .copyright{
 
 /* Shop Page Starts Here */
 #page-header.shop-header{
-    background-image: url("img/banner/b1.jpg");
+    background-image: url("banner/b1.jpg");
 }
 
 /* Single Product Page Starts Here */
@@ -621,7 +621,7 @@ footer .copyright{
 
 /* About Page Starts Here */
 #page-header{
-    background-image: url("img/about/banner.png");
+    background-image: url("banner/banner.png");
     width: 100%;
     height: 30vh;
     background-size: cover;
@@ -638,7 +638,7 @@ footer .copyright{
 }
 
 #page-header.about-header{
-    background-image: url("img/about/banner.png");
+    background-image: url("banner/banner.png");
 }
 
 #about-head{
@@ -673,7 +673,7 @@ footer .copyright{
 
 /* Blog Page Starts Here */
 #page-header.blog-header{
-    background-image: url("img/banner/b19.jpg");
+    background-image: url("banner/b19.jpg");
 }
 
 #blog{
@@ -761,7 +761,7 @@ footer .copyright{
 
 /* Contact Page Starts Here */
 #page-header.contact-header{
-    background-image: url("img/banner/b25.jpg");
+    background-image: url("banner/b25.jpg");
 }
 #contact-details{
     display: flex;
