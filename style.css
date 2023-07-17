@@ -116,7 +116,7 @@ button.white{
 #navbar li a.active::after,
 #navbar li a:hover::after{
     content: "";
-    width: 17px;
+    width: 12px;
     height: 2px;
     background: #088178;
     position: absolute;
